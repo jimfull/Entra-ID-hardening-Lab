@@ -51,7 +51,7 @@ This is the first of two labs building out a full Entra ID security pipeline. Th
 
 ## Full Documentation
 
-The complete step-by-step write-up, including screenshots for every phase, is available here: [Entra_ID_Hardening_Lab.pdf](https://github.com/jimfull/entra-id-hardening-lab/blob/main/Entra_ID_Hardening_Lab.pdf)
+The complete step-by-step write-up, including screenshots for every phase, is available above
 
 ## Author
 
