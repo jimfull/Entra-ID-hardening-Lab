@@ -51,7 +51,7 @@ This is the first of two labs building out a full Entra ID security pipeline. Th
 
 ## Full Documentation
 
-The complete step-by-step write-up, including screenshots for every phase, is here [Entra_ID_Hardening_Lab.pdf](https://github.com/jimfull/Entra-ID-hardening-Lab/blob/main/Entra_ID_Hardening_Lab.pdf)
+The complete step-by-step write-up, including screenshots for every phase, is here Entra ID (Azure AD) security hardening lab.pdf
 
 ## Author
 
